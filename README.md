@@ -58,3 +58,9 @@ paddleTest：paddle的ernie-gen模型测试
 
 **部署模型，整理发布**-周四前完成并传b站，aistudio自带部署功能，正在看，有空的话真像整个好玩的网站
 
+
+### 3.24更新
+
+演示视频：https://www.bilibili.com/video/BV1CK4y127ua
+CSDN：https://blog.csdn.net/weixin_39742497/article/details/115129404
+aistudio notebook：https://aistudio.baidu.com/aistudio/projectdetail/1673999
