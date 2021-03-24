@@ -64,4 +64,5 @@ paddleTest：paddle的ernie-gen模型测试
 演示视频：https://www.bilibili.com/video/BV1CK4y127ua
 
 CSDN：https://blog.csdn.net/weixin_39742497/article/details/115129404
+
 aistudio notebook：https://aistudio.baidu.com/aistudio/projectdetail/1673999
