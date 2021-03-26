@@ -42,15 +42,10 @@ paddleTest：paddle的ernie-gen模型测试
 
 已测试数据清洗和重新训练， 比之前效果好， 但是过拟合仍然严重
 
-![81acc3dfb5a468be99bc70e17363ee0](C:\Users\JJ\AppData\Local\Temp\WeChat Files\81acc3dfb5a468be99bc70e17363ee0.png)
-
 其实原本数据集内有很多不错的内容，但是由于过拟合严重，基本生成不出来。
 
 <u>需要进一步处理数据</u>。或许可以多复制几份这一块的内容（人为把内容稍加修改），加上打榜内容，合成一个大点的数据集，随机shuffle打乱再训练
 
-
-
-![image-20210322155027092](C:\Users\JJ\AppData\Roaming\Typora\typora-user-images\image-20210322155027092.png)
 
 
 
